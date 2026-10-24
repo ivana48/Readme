@@ -14,7 +14,26 @@ Dnes je pekný den
 **Zajtra** je 
 
 
+> toto je bloq
 
+
+nakupnz zoznam:
+- prva polozka
+- druha polzka
+- tretia polozak
+
+nakup
+1. repa
+2. kava
+3. dazdnik
+
+nakup
+
++ stare
++ nove
++ polo
+
+   
 
 
 
