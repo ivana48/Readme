@@ -19,6 +19,7 @@ Dnes je pekný den
 
 nakupnz zoznam:
 - prva polozka
+   - oko 
 - druha polzka
 - tretia polozak
 
