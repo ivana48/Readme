@@ -1,3 +1,8 @@
 # Markdown
+ repo pre trening 
+# Nadpis H1 hlavny nadpis
 
-vita sks
+# 1 nayov 
+# 2 popis 
+
+
